@@ -1,7 +1,8 @@
+> [!important]
+> O código disponível neste repositório é destinado exclusivamente para fins de consulta e resolução de dúvidas. **Por favor, não copie o código diretamente**.
+
 # TADS UFPR 1º Semestre
 Atividades e trabalhos realizados para o primeiro semestre do curso de graduação em Análise e Desenvolvimento de Sistemas pela Universidade Federal do Paraná
-
-<b>Índice de Rendimento Acadêmico</b>: 0.9315
 
 <table>
     <tr>
